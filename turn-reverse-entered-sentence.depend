@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528113465 source:d:\projelerim\codeblocksprojeleri\string-fonk-girilen-yaziyi-tersten-yazdirma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
